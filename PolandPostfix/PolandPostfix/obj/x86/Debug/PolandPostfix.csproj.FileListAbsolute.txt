@@ -1,0 +1,5 @@
+E:\Projects\GoogleDrive\Programming\C#\PolandPostfix\PolandPostfix\bin\Debug\PolandPostfix.exe
+E:\Projects\GoogleDrive\Programming\C#\PolandPostfix\PolandPostfix\bin\Debug\PolandPostfix.pdb
+E:\Projects\GoogleDrive\Programming\C#\PolandPostfix\PolandPostfix\obj\x86\Debug\PolandPostfix.exe
+E:\Projects\GoogleDrive\Programming\C#\PolandPostfix\PolandPostfix\obj\x86\Debug\PolandPostfix.pdb
+E:\Projects\GoogleDrive\Programming\C#\PolandPostfix\PolandPostfix\obj\x86\Debug\PolandPostfix.csprojResolveAssemblyReference.cache
